@@ -8,8 +8,9 @@ Controlling 3 wheel robot using ESP32 and L298N motor driver with telegram bot. 
   <li> L298N Motor Driver </li>
   <li> DC Motors  </li>
   <li> Wheels </li>
+  <li> Ball Caster Wheel </li>
   <li> 9V Battery </li>
-  <li> 3.7 V 2000mAH Battery  </li>
+  <li> 3.7V 2000mAH Battery  </li>
   <li> Jumper Cables </li>
 </ul>
  
