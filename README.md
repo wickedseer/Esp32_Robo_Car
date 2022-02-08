@@ -12,4 +12,5 @@ Controlling 3 wheel robot using ESP32 and L298N motor driver with telegram bot. 
   <li> 3.7 V 2000mAH Battery  </li>
   <li> Jumper Cables </li>
 </ul>
-  
+ 
+<p> Refer: <a href="https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/" </a> </p>
